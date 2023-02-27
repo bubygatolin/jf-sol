@@ -21,7 +21,7 @@ export function Header(){
           <Link href="/board" legacyBehavior>
             <a>Meu board</a>
           </Link>
-          < a href=''>Sobre</a>
+          < a href='/sobre'>Sobre</a>
         </nav>
 
         <SignInButton/>
