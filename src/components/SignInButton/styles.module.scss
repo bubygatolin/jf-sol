@@ -35,5 +35,17 @@
     svg.closeIcon{
       margin-left: 1rem;
     }
+    @media (max-width: 870px){
+        display: flex;
+        margin-right: 210px;
+        margin-top: -90px;
+        font-size: 10px;
+       
+        img{
+          display: none;
+        }
+      }
+    
   
   }
+ 
